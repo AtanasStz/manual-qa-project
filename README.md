@@ -67,6 +67,7 @@ The project focuses on testing an e-commerce website and includes test planning,
 
 #### The repository is continuously updated with new test cases, bug reports, and testing documentation as part of ongoing QA learning and practice.
 
-Author:
+#### Author:
 Junior QA Manual Tester
+
 Focused on building practical experience in software testing, test management, and quality assurance processes.
