@@ -1,4 +1,4 @@
-# manual-qa-project
+# ManualQA Project
 E-commerce Website QA Project (Portfolio Project)
 
 📌 Type: E-Commerce Website Testing
